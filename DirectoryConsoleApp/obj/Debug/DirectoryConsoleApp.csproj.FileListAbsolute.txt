@@ -1,0 +1,8 @@
+C:\Users\afrom\source\repos\DirectoryConsoleApp\DirectoryConsoleApp\bin\Debug\DirectoryConsoleApp.exe.config
+C:\Users\afrom\source\repos\DirectoryConsoleApp\DirectoryConsoleApp\bin\Debug\DirectoryConsoleApp.exe
+C:\Users\afrom\source\repos\DirectoryConsoleApp\DirectoryConsoleApp\bin\Debug\DirectoryConsoleApp.pdb
+C:\Users\afrom\source\repos\DirectoryConsoleApp\DirectoryConsoleApp\obj\Debug\DirectoryConsoleApp.csproj.AssemblyReference.cache
+C:\Users\afrom\source\repos\DirectoryConsoleApp\DirectoryConsoleApp\obj\Debug\DirectoryConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\afrom\source\repos\DirectoryConsoleApp\DirectoryConsoleApp\obj\Debug\DirectoryConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\afrom\source\repos\DirectoryConsoleApp\DirectoryConsoleApp\obj\Debug\DirectoryConsoleApp.exe
+C:\Users\afrom\source\repos\DirectoryConsoleApp\DirectoryConsoleApp\obj\Debug\DirectoryConsoleApp.pdb
